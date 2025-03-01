@@ -140,12 +140,12 @@ Who is your target audience? (job title, industry, company size, etc.)"
 
 **System:** *[Refines the email based on feedback]*
 
-## License
-
-[MIT License](LICENSE)
 
 ## Acknowledgements
 
 - [DeepSeek](https://deepseek.com/) for providing the LLM API
 - [Groq](https://groq.com/) for providing a fast LLM API alternative
 - [Flask](https://flask.palletsprojects.com/) for the web framework 
+
+
+## Created by Sandeep Kumar
